@@ -32,12 +32,12 @@ Desenvolvedor Full-Stack focado em **C# e .NET**, atuando principalmente com sis
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
 </p>
 
----
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesley1248&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesley1248&theme=tokyonight"/>
 </p>
+
+---
 
 ## 📊 Estatísticas
 
