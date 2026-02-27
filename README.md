@@ -37,8 +37,7 @@ Desenvolvedor Full-Stack focado em **C# e .NET**, atuando principalmente com sis
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley1248&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1248&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesley1248&theme=tokyonight"/>
 </p>
 
 ---
