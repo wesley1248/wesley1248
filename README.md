@@ -1,32 +1,96 @@
-# Wesley Santos 👨‍💻
-Desenvolvedor Full-Stack .NET
+# <p align="center">👨‍💻 Wesley Santos</p>
 
-## Sobre mim
-Sou desenvolvedor focado em ASP.NET Core MVC, arquitetura em camadas e sistemas corporativos.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Desenvolvedor+.NET+Full+Stack;ASP.NET+Core+MVC+%7C+APIs+REST;Oracle+%7C+PostgreSQL+%7C+EF+Core;Arquitetura+em+Camadas;Sempre+aprendendo+algo+novo"/>
+</p>
 
-Atualmente trabalhando em:
-- Sistema ERP interno
-- WMS
-- E-commerce (EspacoTays)
+---
 
-## Tecnologias
-C#, .NET, ASP.NET Core MVC, EF Core, PostgreSQL, Oracle, jQuery, Bootstrap
+## 🧠 Sobre mim
 
-## Projetos em destaque
-- EspacoTays-Voce
-- Portal Web
+Desenvolvedor Full-Stack focado em **C# e .NET**, atuando principalmente com sistemas corporativos, regras de negócio complexas e integrações com banco de dados.
 
-## Contato
-LinkedIn
-Email
+📌 Experiência com:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley1248&show_icons=true&theme=tokyonight)
+* ERP / WMS
+* Sistemas internos corporativos
+* APIs REST
+* Arquitetura em camadas (MVC → Domain → Infra)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1248&layout=compact&theme=tokyonight)
+---
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+## 🧰 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,postgres,git,github,vscode,visualstudio" />
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley1248&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley1248&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=wesley1248&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesley1248&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛍️ EspacoTays-Voce
+
+E-commerce desenvolvido em ASP.NET Core MVC utilizando EF Core e PostgreSQL.
+
+### 🏢 Sistemas Corporativos
+
+Experiência em manutenção e evolução de sistemas ERP/WMS com regras de negócio e integrações Oracle.
+
+### 🔗 APIs REST
+
+Criação, autenticação e consumo de APIs utilizando AJAX e integração entre sistemas.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/wesley-santos-453b12188/">
+<img src="https://img.shields.io/badge/LinkedIn-Wesley%20Santos-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Wesleytms.es@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Obrigado por visitar meu perfil!
 </p>
