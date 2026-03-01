@@ -63,22 +63,6 @@ Desenvolvedor Full-Stack focado em **C# e .NET**, atuando principalmente com sis
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🛍️ EspacoTays-Voce
-
-E-commerce desenvolvido em ASP.NET Core MVC utilizando EF Core e PostgreSQL.
-
-### 🏢 Sistemas Corporativos
-
-Experiência em manutenção e evolução de sistemas ERP/WMS com regras de negócio e integrações Oracle.
-
-### 🔗 APIs REST
-
-Criação, autenticação e consumo de APIs utilizando AJAX e integração entre sistemas.
-
----
-
 ## 📫 Contato
 
 <p align="center">
