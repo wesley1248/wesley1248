@@ -14,7 +14,6 @@ Desenvolvedor Full-Stack focado em **C# e .NET**, atuando principalmente com sis
 
 * ERP / WMS
 * Sistemas internos corporativos
-* APIs REST
 * Arquitetura em camadas (MVC → Domain → Infra)
 
 ---
